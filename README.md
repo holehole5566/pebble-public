@@ -14,13 +14,13 @@
 
 🌐 https://pebble.pe4nut.com/
 
-## 測試連結
+## 下載
 
-### iOS (TestFlight)
+### iOS
 
-https://testflight.apple.com/join/NMpXJDVW
+[![App Store](https://img.shields.io/badge/App%20Store-Download-blue?logo=apple)](https://apps.apple.com/app/pebble/id6761006601)
 
-### Android (Google Play)
+### Android (測試中)
 
 1. 先加入測試群組：https://groups.google.com/u/3/g/pebble_test2
 2. 再前往 Play Store 下載：https://play.google.com/store/apps/details?id=com.peanut.pebble
