@@ -27,7 +27,7 @@
 
 ### Chrome Extension
 
-見 [Releases](../../releases) 下載最新的 `pebble-extension.zip`，解壓後在 `chrome://extensions` 開啟開發者模式載入。
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install-green?logo=googlechrome)](https://chromewebstore.google.com/detail/pebble-save-to-couple/ppgeffilgadjdnankpajjkdfjgjohkjc)
 
 ## 隱私
 
